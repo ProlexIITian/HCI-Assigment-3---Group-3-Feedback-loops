@@ -1,0 +1,9 @@
+{
+  "name": "Bazaar Saathi",
+  "short_name": "Saathi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0B3C5D",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
